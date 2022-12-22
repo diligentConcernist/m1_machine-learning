@@ -1,6 +1,6 @@
 # Репозиторий для домашних работ по дисциплине "Машинное обучение"
 
-Датасет: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
+Датасет: https://www.kaggle.com/datasets/ahmettezcantekin/beginner-datasets, файл income.csv
 
 * Всего классов: 2
 * Несбалансированность: есть
